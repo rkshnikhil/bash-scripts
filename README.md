@@ -1,2 +1,2 @@
-# bash-scripts
-Bash scripts to help us in small day to day life
+# Bash Scripts
+This repo carries all basic bash scripts which can help community.
